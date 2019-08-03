@@ -1,0 +1,326 @@
+
+    <!--END HEADER SECTION-->
+    <!-- POPULAR COURSES -->
+    <section class="pop-cour">
+            <div class="container com-sp pad-bot-70">
+                <div class="row">
+                    <div class="con-title">
+                        <h2>All  <span>Courses</span></h2>
+                        <p>You can enroll with us for one or more of the following courses</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div>
+                           
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-1.jpg" alt=""> </div>
+                              
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>ELECTRICAL & ELECTRONICS ENGINEERING DEPARTMENT </h3>
+                                    </a>
+                                    <h4>Artisan Certificate in Electrical & Electronic Engineering</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>10 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="home-top-cour">
+                                
+                                <div class="col-md-3"> <img src="images/course/sm-2.jpg" alt=""> </div>
+                                
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>ELECTRICAL & ELECTRONICS ENGINEERING DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Craft certificate in Electrical & Electronic Engineering (Power option)1 </h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>40 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                          
+                            <div class="home-top-cour">
+                              
+                                <div class="col-md-3"> <img src="images/course/sm-3.jpg" alt=""> </div>
+                                
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                    <h3>ELECTRICAL & ELECTRONICS ENGINEERING DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Diploma in Electrical & Electronics Engineering (Power option)</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>04 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                          
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-4.jpg" alt=""> </div>
+                              
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>ICT DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Craft Certificate in Information Technology 1 </h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-4.jpg" alt=""> </div>
+                              
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>ICT DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Diploma in Information Communication Technology </h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-4.jpg" alt=""> </div>
+                              
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>ICT DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Computer Packages</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+    
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-5.jpg" alt=""> </div>
+                               
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                    <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Craft Certificate in Supplies chain management 1</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>10 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+    
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div>
+                           
+                        
+                            
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-6.jpg" alt=""> </div>
+                                
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Craft Certificate in Human Resource Management 1</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>40 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-7.jpg" alt=""> </div>
+                               
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Craft Certificate In ECD (School Based) </h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>04 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                            <div class="home-top-cour">
+                                
+                                <div class="col-md-3"> <img src="images/course/sm-8.jpg" alt=""> </div>
+                            
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Diploma in Supplies Chain Management 1</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+    
+                            <div class="home-top-cour">
+                               
+                                <div class="col-md-3"> <img src="images/course/sm-7.jpg" alt=""> </div>
+                               
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Diploma in Human Resource Management 1 </h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>04 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                            <div class="home-top-cour">
+                                
+                                <div class="col-md-3"> <img src="images/course/sm-8.jpg" alt=""> </div>
+                            
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>Diploma In ECD( School Based)</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+    
+                            <div class="home-top-cour">
+                                
+                                    <div class="col-md-3"> <img src="images/course/sm-8.jpg" alt=""> </div>
+                                
+                                    <div class="col-md-9 home-top-cour-desc">
+                                        <a href="#">
+                                            <h3>BUSINESS DEPARTMENT</h3>
+                                        </a>
+                                        <h4>KTTC instructor Training Part 1 </h4>
+                                        <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                        <div class="hom-list-share">
+                                            <ul>
+                                                <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                                <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                                <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+    
+                                <div class="home-top-cour">
+                                
+                                        <div class="col-md-3"> <img src="images/course/sm-8.jpg" alt=""> </div>
+                                    
+                                        <div class="col-md-9 home-top-cour-desc">
+                                            <a href="#">
+                                                <h3>BUSINESS DEPARTMENT</h3>
+                                            </a>
+                                            <h4>KTTC instructor Training Part  2</h4>
+                                            <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                            <div class="hom-list-share">
+                                                <ul>
+                                                    <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                                    <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                                    <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+    
+                            <div class="home-top-cour">
+                                
+                                <div class="col-md-3"> <img src="images/course/sm-8.jpg" alt=""> </div>
+                            
+                                <div class="col-md-9 home-top-cour-desc">
+                                    <a href="#">
+                                        <h3>BUSINESS DEPARTMENT</h3>
+                                    </a>
+                                    <h4>KTTC Diploma In instructor Training</h4>
+                                    <p>Classes start from September 2019</p> <span class="home-top-cour-rat">4.2</span>
+                                    <div class="hom-list-share">
+                                        <ul>
+                                            <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> Book Now</a> </li>
+                                            <li><a href="#"><i class="fa fa-eye" aria-hidden="true"></i>32 Aavailable</a> </li>
+                                            <li><a href="#"><i class="fa fa-share-alt" aria-hidden="true"></i> 50</a> </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+    
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
